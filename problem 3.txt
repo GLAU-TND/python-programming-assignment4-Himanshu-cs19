@@ -1,0 +1,7 @@
+inp=input()
+str=eval(input())
+s=set()
+for i in str:
+    if inp==s[0:len(inp)]:
+        s.add(i)
+print(n)
